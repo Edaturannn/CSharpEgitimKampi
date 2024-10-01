@@ -1,0 +1,15 @@
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/bin/Debug/net7.0/_02_Variables
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/bin/Debug/net7.0/_02_Variables.deps.json
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/bin/Debug/net7.0/_02_Variables.runtimeconfig.json
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/bin/Debug/net7.0/_02_Variables.dll
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/bin/Debug/net7.0/_02_Variables.pdb
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/obj/Debug/net7.0/_02_Variables.csproj.AssemblyReference.cache
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/obj/Debug/net7.0/_02_Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/obj/Debug/net7.0/_02_Variables.AssemblyInfoInputs.cache
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/obj/Debug/net7.0/_02_Variables.AssemblyInfo.cs
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/obj/Debug/net7.0/_02_Variables.csproj.CoreCompileInputs.cache
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/obj/Debug/net7.0/_02_Variables.dll
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/obj/Debug/net7.0/refint/_02_Variables.dll
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/obj/Debug/net7.0/_02_Variables.pdb
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/obj/Debug/net7.0/_02_Variables.genruntimeconfig.cache
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_02_Variables/obj/Debug/net7.0/ref/_02_Variables.dll

@@ -1,0 +1,15 @@
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/bin/Debug/net7.0/_01_MainSubjects
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/bin/Debug/net7.0/_01_MainSubjects.deps.json
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/bin/Debug/net7.0/_01_MainSubjects.runtimeconfig.json
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/bin/Debug/net7.0/_01_MainSubjects.dll
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/bin/Debug/net7.0/_01_MainSubjects.pdb
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/obj/Debug/net7.0/_01_MainSubjects.csproj.AssemblyReference.cache
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/obj/Debug/net7.0/_01_MainSubjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/obj/Debug/net7.0/_01_MainSubjects.AssemblyInfoInputs.cache
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/obj/Debug/net7.0/_01_MainSubjects.AssemblyInfo.cs
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/obj/Debug/net7.0/_01_MainSubjects.csproj.CoreCompileInputs.cache
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/obj/Debug/net7.0/_01_MainSubjects.dll
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/obj/Debug/net7.0/refint/_01_MainSubjects.dll
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/obj/Debug/net7.0/_01_MainSubjects.pdb
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/obj/Debug/net7.0/_01_MainSubjects.genruntimeconfig.cache
+/Users/eda/Desktop/C#_Eğitim_Kampi/CSharpEgitimKampi/_01_MainSubjects/obj/Debug/net7.0/ref/_01_MainSubjects.dll
